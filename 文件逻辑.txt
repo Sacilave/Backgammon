@@ -1,0 +1,7 @@
+main.c :
+	title() 开头界面，设置string01变量在 开始游戏 和 重新开始 中来回切换
+	layout() 输出用户界面（棋盘，标号）
+	winnner() 输出哪一方获胜，或平局情况
+
+judge.h :
+	judgeLine() 判定是否某一方获胜
